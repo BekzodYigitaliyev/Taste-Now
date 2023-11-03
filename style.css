@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+body{
+    background:#FCFCFC ;
+    font-family: Poppins;
+}
+.fod{
+    width: 567px;
+    height: 527;
+}
+a{
+    text-decoration: none;
+}
+.bat{
+    background-color: #F72D57;
+    color: white;
+    width: 140px;
+    height: 46px;
+    border-radius: 4px;
+    padding: 10px;
+}
+.aktiv{
+    color: #F72D57;
+}
+span{
+    color: #F72D57;
+}
+h2{
+    width: 574px;
+    color: #3F3F3F;
+    font-family: Poppins;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 600;
+}
+.pizza{
+    background: #F72D57;
+    width: 300px;
+    height: 86px; 
+    justify-content: center;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.para{
+  width: 517px;
+  color: black;
+  font-family: Poppins;
+  line-height: normal;
+  font-size: 16px;
+  font-weight: 400;
+}
+.piz{
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.piz2{
+  font-family: Poppins;
+  font-size: 13px;
+  line-height: normal;
+}
+.sum{
+    font-family: Poppins;
+    font-weight: 500;
+}
+.burger{
+    width: 300px;
+    height: 86px; 
+    justify-content: center;
+    border-radius: 5px;
+    color: #F72D57;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.back{
+    background: #F72D57;
+}
+.king{
+    width: 569px;
+    text-align:center,right;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: normal;
+}
+.pop{
+    width: 517px;
+    text-align: center,right;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+  }
+  .head{
+    width: 395px;
+    color: #3F3F3F;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .parag{
+    width: 582px;
+    color:black
+  }
+  .box{
+    width:140px;
+    height: 46px;
+    background-color: #F72D57;
+    color: white;
+  }
+  .boxi{
+    width:140px;
+    height: 34px;
+    background-color: #F72D57;
+    color: white;  
+  }
+  .head2{
+    width: 572px;
+    color: #3F3F3F;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+  }
+  .parag2{
+    width: 548px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+  }
+  .foter{
+    width: 1440px;
+    height: 100px; 
+    background-color: #F72D57;
+  }
+  .list{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
